@@ -1,0 +1,10 @@
+[submodule "humanoid-controller"]
+	path = humanoid-controller
+	url = https://github.com/SeonilChoi/humanoid-controller.git
+	branch = arti-h1-olaf
+[submodule "humanoid-mcp"]
+	path = humanoid-mcp
+	url = https://github.com/SeonilChoi/humanoid-mcp.git
+[submodule "humanoid-sim"]
+	path = humanoid-sim
+	url = https://github.com/SeonilChoi/humanoid-sim.git
